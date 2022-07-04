@@ -1,4 +1,10 @@
 body{
     font-family: 'Poppins', sans-serif;
-font-family: 'Teko', sans-serif;
+}
+h1{
+    font-size: 50px;
+
+}
+.span-color{
+    color: orange;
 }
