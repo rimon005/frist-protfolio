@@ -8,8 +8,15 @@ h1{
 .span-color{
     color: orange;
 }
-.container {
+p{
+    font-weight: 600 ;
+}
+section{
     display: flex;
+}
+.top-banner{
+    background-image: url(./images/top-banner.png);
+    background-repeat:no-repeat;
 }
 .half-width{
     width: 50%;
@@ -17,4 +24,13 @@ h1{
 }
 .half-width img {
     width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(orange , tomato);
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+
 }
